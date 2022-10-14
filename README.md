@@ -6,7 +6,7 @@
 
 ### My Discord Profile
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952200956802658324?theme=black&bg=1c1c1c&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Sometimes%20events%20will%20not%20be%20success...)](https://discord.com/users/952200956802658324)
+[![Discord Presence](https://lanyard.cnrad.dev/api/952200956802658324)](https://discord.com/users/952200956802658324)
 
 ---
 
