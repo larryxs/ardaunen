@@ -1,6 +1,7 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-Profile Hits: [![HitCount](https://hits.dwyl.com/larrysx/larryxs.svg?style=flat-square)](http://hits.dwyl.com/larrysx/larryxs)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=larryxs&label=Profile%20views&color=0e75b6&style=flat" alt="larryxs" /> </p>
+
 
 
 ### I am listening at Spotify🎧
