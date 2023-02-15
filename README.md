@@ -1,6 +1,7 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-Profile Hits:   [![HitCount](https://hits.dwyl.com/larrysx/larryxs/larryxs.svg?style=flat-square)](http://hits.dwyl.com/larrysx/larryxs/larryxs)
+Profile Hits: [![HitCount](https://hits.dwyl.com/larrysx/larryxs.svg?style=flat-square)](http://hits.dwyl.com/larrysx/larryxs)
+
 
 ### I am listening at Spotify🎧
 
